@@ -1,4 +1,3 @@
-This is a new landing page.
-
-
 # Why consult and engage?
+
+This page is a placeholder for draft content.
